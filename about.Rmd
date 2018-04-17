@@ -1,0 +1,34 @@
+---
+title: "ABOUT"
+---
+
+<br>
+
+<img id="img-me" src="site_content/img/me.jpeg" width="300px" height="auto">
+
+<br>
+
+## THE BRIEF BIO
+
+<br>
+
+> I am a southern girl who is passionate about healthcare, programming, data science, social issues, and my community. I love conceptual thinking and am always working to diversify my perspectives by expanding my knowledge base and global reach. With this site, I hope to document what I learn and share what I know.
+
+<br>
+
+### STILL CURIOUS? READ ON:
+
+<br>
+
+My background is rooted in healthcare, research and data. This formed the basis for my academic career and has fueled continued educational endeavors. My BS was in Biology and Environmental Science with a minor in Public Health at Spelman College. 
+
+<br>
+
+My Master’s degree is in Public Health (MPH). More specifically, Epidemiology with a specialized focus on data science and biostatistics. The MPH is designed for healthcare professions in many different fields from healthcare analysts, health consultants, data scientists, and many more.  The Epidemiology track taught me how to support my organization to gain strategic and tactical competitive advantages, which we can call knowledge management or business intelligence.
+
+<br>
+
+I hope to contribute posts on my site that align with my data interests with special focus on interdisciplinary relationships and data concepts and common practice. Data science is a fluid and dynamic field, its potential to create global change has yet to be realized. I believe that through syndemics, everything is connected. In that data plays a major role in shaping our society and world. The 21st century will be about exploring these connections and using data to make the best of them—it is my hope to be a part of this.
+
+<br>
+

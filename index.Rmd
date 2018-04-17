@@ -1,0 +1,170 @@
+---
+title: "CRITICAL DATA ANALYSIS"
+output:
+  html_document:
+    excludes:
+      before_body: _navbar.html
+    includes:
+      before_body: navbar_home.html
+      after_body: footer.html
+---
+
+> This site is an avenue for me to share either data analysis techniques I find novel or interesting and/or ideas or thoughts from my background in healthcare and data science. Emerging methods in healthcare operations and health information systems often overlap with data science practices, as such, my posts may be directed at either one or both of these topics of interest.
+
+<br>
+<hr>
+<br>
+
+<a class="anchor" id="about"></a>
+
+<h1>ABOUT ME</h1>
+
+<br>
+
+<img id="img-me" src="site_content/img/me.jpeg" width="300px" height="auto">
+
+<br>
+
+<h3>THE BRIEF BIO</h3>
+
+<br>
+
+> I am a southern girl who is passionate about healthcare, programming, data science, social issues, and my community. I love conceptual thinking and am always working to diversify my perspectives by expanding my knowledge base and global reach. With this site, I hope to document what I learn and share what I know.
+
+<br>
+
+<h3>STILL CURIOUS? READ ON:</h3>
+
+<br>
+
+My Master’s degree is in Public Health (MPH). More specifically, Epidemiology with a specialized focus on data science and biostatistics. The MPH is designed for healthcare professions in many different fields from healthcare analysts, health consultants, data scientists, and many more.  The Epidemiology track taught me how to support my organization to gain strategic and tactical competitive advantages, which we can call knowledge management or business intelligence.
+
+<br>
+
+I hope to contribute posts on my site that align with my data interests with special focus on interdisciplinary relationships and data concepts and common practice. Data science is a fluid and dynamic field, its potential to create global change has yet to be realized. I believe that through syndemics, everything is connected. In that data plays a major role in shaping our society and world. The 21st century will be about exploring these connections and using data to make the best of them—it is my hope to be a part of this.
+
+<br>
+
+For the full bio click [here](about.html) or the button below.
+
+<br>
+
+<a class="btn btn-outline-secondary btn-lg" href="about.html" role="button">Full Bio</a>
+
+
+<br>
+<hr>
+<br>
+
+<a class="anchor" id="blog-posts"></a>
+
+<h1>BLOG</h1>
+
+<br>
+
+<article>
+<h3><a href="blog-uptake-fellowship-start.html">REFLECTIONS ON THE START OF MY DATA FELLOWSHIP WITH UPTAKE</a></h3>
+<div class="summary">
+<p>I can't believe it's been more than a week since I returned from my trip to Chicago. This was an incredible opportunity and before I start this post a few thank yous are in order: I really can't thank [Uptake](www.uptake.com) enough for being the kind of company that does more than just 'have an mission statement'--having the motivation to start a philanthropic arm...</p>
+<a class="btn btn-outline-primary btn-sm" href="blog-uptake-fellowship-start.html" role="button">Full Post</a>
+</div>
+</article>
+
+<article>
+<h3><a href="blog-adv-of-code-day-one.html">ADVENT OF CODE IN R: DAY 1</a></h3>
+<div class="summary">
+<p> Over on the `rOpenSci` Slack, [Sam](https://twitter.com/samfirke) asked if anyone was doing the (Advent of Code)[http://adventofcode.com/] challenges in R.  A few others said they were interested and I decided to go for it as well!  My solutions...</p>
+<a class="btn btn-outline-primary btn-sm" href="">Full Post</a>
+</div>
+</article>
+
+<article>
+<h3><a href="blog-vaccine-heatmap.html">RECREATING THE VACCINE HEATMAP IN PLOTLY 4.0+ WITH R</a></h3>
+<div class="summary">
+<p>This took me a while to figure out how to implement.  Since `plotly` 4.0+ is so different and the documentation is still rolling out I wanted to challenge myself to make something complicated to better understand how things have changed...</p>
+<a class="btn btn-outline-primary btn-sm" href="blog-vaccine-heatmap.html">Full Post</a>
+</div>
+</article>
+
+<article>
+<h3><a href="blog-building-site-with-rmarkdown.html">BUILDING THIS SITE WITH RSTUDIO AND RMARKDOWN</a></h3>
+<div class="summary">
+<p>There _may_ be a special place in hell for blog posts like this that document how someone put together their static site website and hosted it on GitHub.  Especially when there is really great [documentation](rmarkdown.rstudio.com/rmarkdown_websites.html) availible that has been put together by really smart people.  You can even look at Rmarkdown's website source code on [GitHub](https://github.com/rstudio/rmarkdown/tree/gh-pages) to see...</p>
+<a class="btn btn-outline-primary btn-sm" href="blog-building-site-with-rmarkdown.html">Full Post</a>
+</div>
+</article>
+
+
+<a class="btn btn-outline-secondary btn-lg" href="blog.html" role="button">More Posts</a>
+
+<br>
+<hr>
+<br>
+
+<a class="anchor" id="vitae"></a>
+
+<h1>VITAE</h1>
+
+<br>
+
+<h3><i class="fa fa-graduation-cap fa-lg"></i>  Education</h3>
+
+<br>
+
+<ul>  
+  <i class="fa fa-angle-double-right fa-lg"></i> University of North Texas | Master of Science in Information Science (2013)
+</ul>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> University of California, Los Angeles (UCLA) | Bachelor of Arts in French and comparative literature (2008 / double major)
+</ul>
+<ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   Universit&#233; de la Sorbonne Nouvelle (Paris III) | Student exchange (2006---2007)
+</ul>
+
+<br>
+
+<h3><i class="fa fa-institution fa-lg"></i>  Work Experience</h3>
+
+<br>
+
+<!-- SRHT / Data Analyst -->
+<ul>  
+  <h3>Skid Row Housing Trust_Los Angeles, CA</h3>
+  <h4>Data Analyst / August 2015---Present</h4>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> provide strategic oversight to organization's data collection systems and reporting processes through the collection and anslysis of data, reporting on and capturing of outcome metrics, and providing input to create a more data-driven culture
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i>   responsible for identifying, monitoring, and evaluating program and organizational outcomes to ensure compliance and effectiveness of programming
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> exploring open-source database alternatives to reduce organizational cost and fit within the IT ecosystem
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> liaise with internal departments for reporting/proposal questions, demographic data, and to answer questions about the Resident Programs department's model and outcomes strategy
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> prepare recurring and special aggregated data reports and related decision support tools for Resident Programs department (and organization if needed) to support analytics value chain: data<i class="fa fa-arrow-right"></i>reporting<i class="fa fa-arrow-right"></i>analysis<i class="fa fa-arrow-right"></i>action<i class="fa fa-arrow-right"></i>value
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> oversee the application and implementation of assessment procedures; provides feedback and training in its use and answers questions about what is tracked and why
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> gathers, formats, and analyzes data using descriptive and inferential statics with visualizations of outcome metrics to enable the organization to tell its narrative with data
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> acting as core Efforts to Outcomes database administrator for the Resident Programs department; provides additional database support / programming support to internal departments as requested
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> working on data warehousing solutions to support executive dashbord to track high-level concerns
+  </ul>
+  <ul>
+  <i class="fa fa-angle-double-right fa-lg"></i> liaise with external organizations, research institutions, and contractors / consultants interested in or currently conducting research with residents to answer questions about what we currently are using to track outcomes / offer support
+  </ul>
+</ul>
+
+<br>
+
+<a class="btn btn-outline-secondary btn-lg" href="vitae.html" role="button">Full Vitae</a>
+
+<br>
